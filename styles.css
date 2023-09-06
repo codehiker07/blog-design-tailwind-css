@@ -1,0 +1,9 @@
+/* Apply 'Poppins' font to elements with class 'font-poppins' */
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Apply 'Roboto' font to elements with class 'font-roboto' */
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
+}
